@@ -36,6 +36,7 @@ Hosted on Netlify: [eCommerce Demo](https://dheekshithinterviewdemo.netlify.app/
 Open the project in your default web browser.
 
 Website preview:
+
 Home:
 ![home](https://github.com/dheekshith1/Interviewdemosite/assets/41231253/73dc662f-2575-4d49-8669-617f4926443b)
 
