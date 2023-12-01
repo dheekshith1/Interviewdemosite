@@ -35,8 +35,3 @@ Hosted on Netlify: [eCommerce Demo](https://dheekshithinterviewdemo.netlify.app/
 
 Open the project in your default web browser.
 
-## Contribution
-
-Feel free to contribute or provide feedback by creating an issue or submitting a pull request.
-
-Happy coding!
